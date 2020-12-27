@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://hfz13147.github.io/blog/</id>
-    <title>Gridea</title>
-    <updated>2020-12-27T06:44:43.721Z</updated>
+    <title>方洲的Blog</title>
+    <updated>2020-12-27T06:50:59.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://hfz13147.github.io/blog/"/>
     <link rel="self" href="https://https://hfz13147.github.io/blog/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Leave it and have a good day</subtitle>
     <logo>https://https://hfz13147.github.io/blog/images/avatar.png</logo>
     <icon>https://https://hfz13147.github.io/blog/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 方洲的Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://https://hfz13147.github.io/blog/post/hello-gridea/</id>
