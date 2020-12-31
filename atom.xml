@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://hfz13147.github.io/blog/</id>
+    <id>https://hfz13147.github.io/blog/</id>
     <title>方洲的Blog</title>
-    <updated>2020-12-27T06:59:21.449Z</updated>
+    <updated>2020-12-31T09:53:22.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://hfz13147.github.io/blog/"/>
-    <link rel="self" href="https://https://hfz13147.github.io/blog/atom.xml"/>
+    <link rel="alternate" href="https://hfz13147.github.io/blog/"/>
+    <link rel="self" href="https://hfz13147.github.io/blog/atom.xml"/>
     <subtitle>Leave it and have a good day</subtitle>
-    <logo>https://https://hfz13147.github.io/blog/images/avatar.png</logo>
-    <icon>https://https://hfz13147.github.io/blog/favicon.ico</icon>
+    <logo>https://hfz13147.github.io/blog/images/avatar.png</logo>
+    <icon>https://hfz13147.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, 方洲的Blog</rights>
 </feed>
